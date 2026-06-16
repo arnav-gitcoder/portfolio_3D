@@ -3,76 +3,69 @@ export const servicesData = [
   {
     title: "FullStack Development",
     description:
-      "Your business deserves a fast, secure, and future-proof digital foundation. I develop custom web apps with clean architecture, optimized databases, and seamless integrations—ensuring reliability at every layer.",
+      "I develop full-stack web applications that combine thoughtful design with solid engineering. My focus is on building fast, user-friendly, and maintainable digital experiences that solve real-world problems..",
     items: [
       {
-        title: "Backend Engineering",
-        description: "(REST/GraphQL APIs, Microservices, Auth Systems)",
+        title: "Frontend Excellence",
+        description: "(React, GSAP, Interactive UI/UX)",
       },
       {
-        title: "Frontend Excellence",
-        description: "(React, Vue, TypeScript, Interactive UI/UX)",
+        title: "Backend Engineering",
+        description: "(REST APIs, Microservices, Auth Systems)",
       },
       {
         title: "Database Design",
-        description: "(SQL/NoSQL Optimization, Scalable Structures)",
-      },
-    ],
-  },
-  {
-    title: "DevOps & Cloud Solutions",
-    description:
-      "Deploying software shouldn't be a gamble. I automate infrastructure, enforce security, and leverage cloud platforms (AWS/Azure) to keep your app running smoothly—24/7, at any scale.",
-    items: [
-      {
-        title: "CI/CD Pipelines",
-        description: "(GitHub Actions, Docker, Kubernetes)",
-      },
-      {
-        title: "Server Management ",
-        description: "(Linux, Nginx, Load Balancing)",
-      },
-      {
-        title: "Performance Tuning",
-        description: "(Caching, Compression, Lighthouse 90+ Scores)",
+        description: "(MongoDB, SQL Optimization, Scalable Structures)",
       },
     ],
   },
   {
     title: "Security & Optimization",
     description:
-      "Slow or hacked apps destroy trust. I harden security (XSS/SQLI protection, OAuth) and optimize bottlenecks so your app stays fast, safe, and scalable as you grow.",
+      "From securing networks to building applications, I focus on creating technology that users can trust—balancing performance, usability, and security at every layer.",
     items: [
       {
         title: "Code Audits",
-        description: "(Refactoring, Tech Debt Cleanup)",
+        description: "(Refactoring, Secure session management)",
       },
       {
         title: "Pen Testing",
         description: "(Vulnerability Assessments)",
       },
       {
-        title: "SEO Tech Stack",
-        description: "(SSR, Metadata, Structured Data)",
+        title: "Exploit Testing",
+        description: "(Elective choice of Network Defense and Ethical Hacking)",
       },
     ],
   },
   {
-    title: "Web & Mobile Apps",
+    title: "Mobile Apps",
     description:
-      "A clunky interface can sink even the best ideas. I craft responsive, pixel perfect web and mobile apps (React Native/Flutter) that users love—bridging design and functionality seamlessly.",
+      "An intermediary in the craft of mobile development, I bridge ideas and execution by building responsive, intuitive applications that combine thoughtful design with seamless functionality.",
     items: [
       {
         title: "Cross-Platform Apps",
-        description: "(Single codebase for iOS/Android/Web)",
+        description: "(Single codebase for Android/Web)",
       },
       {
-        title: "PWAs",
-        description: "(Offline mode, Push Notifications)",
+        title: "StepSecure: Risk Prediction System",
+        description: "(Realtime Risk Assessment, Push Notifications, Hardware Integration)",
+      },
+    ],
+  },
+  {
+    title: "Communication & Collaboration",
+    description:
+      "Strong collaborator with a focus on clear, concise technical communication.",
+    items: [
+      {
+        title: "Technical Documentation"
       },
       {
-        title: "E-Commerce",
-        description: "(Checkout flows, Payment Gateways, Inventory APIs)",
+        title: "Client Communication"
+      },
+      {
+        title: "Security Reporting"
       },
     ],
   },
