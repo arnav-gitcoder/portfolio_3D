@@ -171,7 +171,7 @@ export const projects = [
   },
 ];
 export const socials = [
-  { name: "LinkedIn", href: "www.linkedin.com/in/arnav-srivastava-tech/" },
+  { name: "LinkedIn", href: "https://www.linkedin.com/in/arnav-srivastava-tech/" },
   { name: "GitHub", href: "https://github.com/arnav-gitcoder" },
   { name: "LeetCode", href: "https://leetcode.com/u/Z0r0nt0m/" },
 ];
